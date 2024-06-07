@@ -1,4 +1,4 @@
-__~~~스타 좀 눌러됴요~~~__
+> # ~~Please stared~~
 
 # kakao-client
 > kakaoTalk Bot with sh**ex
