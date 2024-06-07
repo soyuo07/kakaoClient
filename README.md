@@ -1,5 +1,7 @@
+__~~~스타 좀 눌러됴요~~~__
+
 # kakao-client
-> kakaoTalk Bot with share Kakao
+> kakaoTalk Bot with sh**ex
 > 
 > need Login Passcode & 
 > Login in DebugChat
@@ -38,8 +40,4 @@ TalkListener.on("chat", (chat, channel) => {
 });
 
 TalkListener.start();
-```
-
-```
-  URL : https://github.com/dodocube/NodeKakao-Example
 ```
